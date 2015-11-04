@@ -55,7 +55,7 @@ If still interested the user can then pursue the flick.
 
 
 ### Mock up
-please use google chrome or refer to design folder for images
+please use google chrome or refer to design folder for images  
 [Live Preview](https://marvelapp.com/8860aj)
 *If link fails*  
 https://marvelapp.com/8860aj
